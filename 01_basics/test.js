@@ -1,1 +1,1 @@
-console.log("Lipun");
+console.log("Lipun")
