@@ -71,8 +71,3 @@ const {courseInstructor: instructor} = course
 
 console.log(instructor);
 
-const navbar = ({company}) => {
-
-}
-
-navbar(company = "hitesh")
